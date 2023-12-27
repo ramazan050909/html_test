@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+.logo img{
+    margin-top: 46px;
+}
+
+.logo h3{
+    color: #FFF;
+    font-size: 37px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 56px;
+    margin-left: 16.88px;
+    margin-top: 46px;
+}
+
+body{
+    background-color: black;
+}
+
+.menu{
+    display: flex;
+    color: white;
+    margin-top: 58px;
+    column-gap: 39px;
+}
+
+.menu p{
+    color: #707070;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.menu .price{
+    color: #3C82F4;
+    font-size: 21px;
+}
+
+.registr{
+    display: flex;
+    justify-content: space-between;
+    color: #707070;
+    margin-top: 46.5px;
+    column-gap: 24px;
+}
+
+.registr p{
+    color: #707070;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+}
+
+.registr button{
+    /* width: 119px;
+    height: 55px; */
+    background: #306EF7;
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    padding: 12px 22px 13.20px;
+}
+
+.marico{
+    display: flex;
+}
+
+.heading_text{
+    width: 1356px;
+    height: 112px;
+    align-items: center;
+}
+
+.heading_text h1{
+    color: white;
+    font-size: 75px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 112px;
+}
+
+.prices{
+    margin-top: 150px;
+}
